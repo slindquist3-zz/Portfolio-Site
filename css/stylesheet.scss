@@ -1,7 +1,13 @@
 .outer-container {
 
+  .menu.fixed-action-btn.horizontal {
+    padding: 0;
+    top: 3%;
+  }
+
   .header {
     color: black;
     text-align: center;
+    margin-top: 55%;
   }
 }
