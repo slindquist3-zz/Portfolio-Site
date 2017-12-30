@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/slindquist3/Portfolio-Site/issues"
   },
-  "homepage": "https://github.com/slindquist3/Portfolio-Site#readme"
+  "homepage": "https://github.com/slindquist3/Portfolio-Site#readme",
+  "dependencies": {
+    "materialize-css": "^0.100.2"
+  }
 }

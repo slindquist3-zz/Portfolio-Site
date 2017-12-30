@@ -1,10 +1,5 @@
-body {
+.outer-container .header {
   color: black;
-  background-color: blue;
-  font-weight: bold; }
-  body a {
-    color: green; }
-  body h2 {
-    color: red; }
+  text-align: center; }
 
 /*# sourceMappingURL=stylesheet.css.map */

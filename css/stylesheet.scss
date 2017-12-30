@@ -1,13 +1,7 @@
-body {
-  color: black;
-  background-color: blue;
-  font-weight: bold;
+.outer-container {
 
-  a {
-    color: green;
-  }
-
-  h2 {
-    color: red;
+  .header {
+    color: black;
+    text-align: center;
   }
 }
